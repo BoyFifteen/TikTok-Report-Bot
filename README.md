@@ -1,5 +1,4 @@
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/83744297-6705-4b6a-982c-776da2f60d05" />
-
 # 🛡️ TikTok Report Bot
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
